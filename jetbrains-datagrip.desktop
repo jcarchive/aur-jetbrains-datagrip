@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=2021.3.4
+
+Name=Datagrip
+GenericName=SQL IDE 
+
+Icon=/usr/share/jetbrains-datagrip/bin/datagrip.png
+Comment=IDE for SQL development
+Keywords=development;sql;ide;
+Categories=Development;IDE;
+
+Terminal=false
+StartupNotify=true
+StartupWMClass=jetbrains-datagrip
+X-MultipleArgs=false
+Exec=/usr/share/jetbrains-datagrip/bin/datagrip.sh
+
