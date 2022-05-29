@@ -3,6 +3,7 @@ This repo contains an Arch User Repository package for Jetbrains Datagrip follow
 
 1. App files directory: `/usr/share/jetbrains-datagrip`
 2. Executable `datagrip` directory: `/usr/bin/datagrip`
+3. .desktop file directory: `/usr/share/applications`
 
 * The executable in `/usr/bin` is installed as symbolic link to the `datagrip` bin inside the app files.
 
